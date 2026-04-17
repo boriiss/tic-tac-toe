@@ -34,7 +34,7 @@
 
 ## 📁 Репозиторий
 
-[https://github.com/ваш-аккаунт/tic-tac-toe-ai](https://github.com/ваш-аккаунт/tic-tac-toe-ai) — замените на реальную ссылку.
+[https://github.com/boriiss/tic-tac-toe](https://github.com/boriiss/tic-tac-toe)
 
 ## 🧩 UML-диаграмма классов
 
